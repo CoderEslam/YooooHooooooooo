@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57127102556",
+    "project_id": "yoohooappmaster",
+    "storage_bucket": "yoohooappmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57127102556:android:650440a4ed4f3bb2e05e99",
+        "android_client_info": {
+          "package_name": "com.doubleclick.yoohooappmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57127102556-u1kpglokfkhr4uadfd90a3svjffrfsvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmObOr__Q4S9As1unwffs4V-y3v_Rwy3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57127102556-u1kpglokfkhr4uadfd90a3svjffrfsvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
