@@ -1565,8 +1565,7 @@ public class ChatActivity extends BaseActivity implements OnMessageItemClick, Me
         });
     }
 
-    private void newFileUploadTask(String filePath,
-                                   @AttachmentTypes.AttachmentType final int attachmentType, final Attachment attachment) {
+    private void newFileUploadTask(String filePath, @AttachmentTypes.AttachmentType final int attachmentType, final Attachment attachment) {
         closeAttachmentPicker();
 
         final File fileToUpload = new File(filePath);

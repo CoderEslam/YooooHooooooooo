@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/drawable/ic_play_circle_outline.xml" value="0.2765625" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/drawable/ic_play_circle_outline_blue.xml" value="0.2765625" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/drawable/ic_play_circle_outline_blue_36dp.xml" value="0.2765625" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/drawable/ic_play_circle_outline_white.xml" value="0.2765625" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/drawable/ic_send.xml" value="0.2765625" />
         <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/layout/activity_call_screen.xml" value="0.19166666666666668" />
         <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/layout/activity_chats.xml" value="0.19166666666666668" />
         <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/YooHooAppMaster/app/src/main/res/layout/activity_image_viewer.xml" value="0.19166666666666668" />
